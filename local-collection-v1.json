@@ -1,0 +1,133 @@
+{
+  "provenance": "Facts transcribed from the Selection-Report.txt pasted by Douglas C. Youvan in the chat; review findings added after comparison. This is a structured transcription, not a byte-for-byte transcript.",
+  "created": "2026-09-30 20:59:17",
+  "timezone": "America/Chicago",
+  "source_folder": "C:\\Users\\doug\\Downloads",
+  "pdf_files_searched": 790,
+  "output_folder": "C:\\Users\\doug\\Downloads\\Books-for-Google-Drive-20260930-205914-61fd7d",
+  "summary": {
+    "selected_titles": 0,
+    "needs_review_titles": 5,
+    "not_collected_titles": 6
+  },
+  "records": [
+    {
+      "source_listing": 9,
+      "title": "Intelligent Design and the Genetic Code: Mathematics, Bootstrapping, and the Architecture of Biological Meaning",
+      "status": "Not-Found",
+      "note": "No matching interior filename was found.",
+      "excluded_files": [
+        "C:\\Users\\doug\\Downloads\\Intelligent_Design_and_the_Genetic_Code_wrapper_v2.pdf"
+      ]
+    },
+    {
+      "source_listing": 17,
+      "title": "The History That Never Closes: Nuclear Ambiguity, False Flags, Narrative Capture, and the Permanent Crisis of Attribution",
+      "status": "Not-Found",
+      "note": "No matching interior filename was found.",
+      "excluded_files": []
+    },
+    {
+      "source_listing": 19,
+      "title": "Jezebel and the Religion of Power",
+      "status": "Not-Found",
+      "note": "No matching interior filename was found.",
+      "excluded_files": []
+    },
+    {
+      "source_listing": 20,
+      "title": "The Architecture Before the World: What the World Wide Web Teaches Us About Mathematics, AI, and Things That Do Not Exist Yet",
+      "status": "Not-Found",
+      "note": "No matching interior filename was found.",
+      "excluded_files": []
+    },
+    {
+      "source_listing": 51,
+      "title": "Microbial Energy Transduction: Genetics, Structure, and Function of Membrane Proteins (CURRENT COMMUNICATIONS IN CELL AND MOLECULAR BIOLOGY)",
+      "status": "Not-Found",
+      "note": "No matching interior filename was found.",
+      "excluded_files": []
+    },
+    {
+      "source_listing": 5,
+      "title": "Questions of a Christian Biophysicist",
+      "status": "Not-Found",
+      "note": "No matching interior filename was found.",
+      "excluded_files": []
+    },
+    {
+      "source_listing": 11,
+      "title": "Mathematics and LEGOs: From Bricks and Morphisms to Relation, Meaning, and Self-Constructing Mathematical Worlds",
+      "status": "Needs-Review",
+      "source_file": "C:\\Users\\doug\\Downloads\\Mathematics_and_LEGOs_Paperback_Cover_v2.pdf",
+      "collected_copy": "C:\\Users\\doug\\Downloads\\Books-for-Google-Drive-20260930-205914-61fd7d\\Needs-Review\\Mathematics-and-LEGOs.pdf",
+      "pages": 1,
+      "modified_time": "2026-08-14 22:23:07.7566033 -05:00",
+      "sha256": "FDC8C0D68ECAD0177080584CCC09C37C538D37530D1FAC679F29AF7F4B5BD491",
+      "matching_candidate_count": 3,
+      "excluded_files": [
+        "C:\\Users\\doug\\Downloads\\Mathematics_and_LEGOs_Paperback_BlankSpine.pdf"
+      ],
+      "review_finding": "One-page cover; unsuitable selection."
+    },
+    {
+      "source_listing": 14,
+      "title": "Solus Logos: The Living Word Beyond Sola Scriptura",
+      "status": "Needs-Review",
+      "source_file": "C:\\Users\\doug\\Downloads\\drive-download-20260812T182525Z-1-001\\Solus Logos - A Univalent Theology of Divine Identity and Universal Mediation.pdf",
+      "collected_copy": "C:\\Users\\doug\\Downloads\\Books-for-Google-Drive-20260930-205914-61fd7d\\Needs-Review\\Solus-Logos.pdf",
+      "pages": 24,
+      "modified_time": "2026-08-12 13:29:39.8878599 -05:00",
+      "sha256": "E8DEC58D01B7C2E088BB73AC35E314406D4B420F553261658EFD7043AEADF07B",
+      "matching_candidate_count": 4,
+      "excluded_files": [
+        "C:\\Users\\doug\\Downloads\\Solus_Logos_Paperback_Wrapper_BlankSpine.pdf"
+      ],
+      "review_finding": "Different subtitle and short work; unsuitable selection for the intended 230-page book."
+    },
+    {
+      "source_listing": 15,
+      "title": "From Cubes to Worlds: Anonymous Generation and the Emergence of Mathematics, Physics, and Gravitation",
+      "status": "Needs-Review",
+      "source_file": "C:\\Users\\doug\\Downloads\\From_Cubes_to_Worlds_Paperback_Interior_KDP_CLEAN.pdf",
+      "collected_copy": "C:\\Users\\doug\\Downloads\\Books-for-Google-Drive-20260930-205914-61fd7d\\Needs-Review\\From-Cubes-to-Worlds.pdf",
+      "pages": 284,
+      "modified_time": "2026-08-15 13:50:30.9756950 -05:00",
+      "sha256": "715A0BE04B672DE4FD00C2219A4B7FD2455961EA4FD9298BFB09502597F76415",
+      "matching_candidate_count": 5,
+      "excluded_files": [
+        "C:\\Users\\doug\\Downloads\\From_Cubes_to_Worlds_Paperback_Wrapper.pdf"
+      ],
+      "review_finding": "Different bytes from public PDF; content review pending."
+    },
+    {
+      "source_listing": 18,
+      "title": "The American Gorbachev: Trump, Strategic Retrenchment, and the Unmaking of Hegemonic Infrastructure",
+      "status": "Needs-Review",
+      "source_file": "C:\\Users\\doug\\Downloads\\drive-download-20260812T182525Z-1-001\\The American Gorbachev - Trump, Strategic Retrenchment, and the Unmaking of Hegemonic Infrastructure.pdf",
+      "collected_copy": "C:\\Users\\doug\\Downloads\\Books-for-Google-Drive-20260930-205914-61fd7d\\Needs-Review\\The-American-Gorbachev.pdf",
+      "pages": 50,
+      "modified_time": "2026-08-12 13:29:39.9998193 -05:00",
+      "sha256": "47C160DD726F7EF779525D2D01DB7319DF8EF8877648C35B96814BD90D206A57",
+      "matching_candidate_count": 1,
+      "excluded_files": [],
+      "review_finding": "Byte-for-byte identical to audited public PDF."
+    },
+    {
+      "source_listing": 47,
+      "title": "How to Cheat P vs NP: Relativity, Quantum Loops, Infinite Computers, and Twenty Attempts to Outsmart Computation",
+      "status": "Needs-Review",
+      "source_file": "C:\\Users\\doug\\Downloads\\How to Cheat P vs NP.pdf",
+      "collected_copy": "C:\\Users\\doug\\Downloads\\Books-for-Google-Drive-20260930-205914-61fd7d\\Needs-Review\\How-to-Cheat-P-vs-NP.pdf",
+      "pages": 195,
+      "modified_time": "2026-09-07 13:12:19.8543500 -05:00",
+      "sha256": "5530108E1D06A4574070698F961B9331E0F6E9B7AB9B93105BE66AE66E054E6C",
+      "matching_candidate_count": 2,
+      "excluded_files": [
+        "C:\\Users\\doug\\Downloads\\How_to_Cheat_P_vs_NP_cover_wrapper_8.5x11_195p_whitepaper.pdf",
+        "C:\\Users\\doug\\Downloads\\How_to_Cheat_P_vs_NP_cover_wrapper_REVISED_195p.pdf"
+      ],
+      "review_finding": "Byte-for-byte identical to audited public PDF."
+    }
+  ]
+}

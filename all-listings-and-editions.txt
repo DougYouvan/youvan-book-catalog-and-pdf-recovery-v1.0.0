@@ -1,0 +1,244 @@
+Douglas Youvan — Amazon Titles and Product Links
+Snapshot supplied September 30, 2026.
+51 Amazon listings; 50 distinct title strings; 67 linked product editions.
+The Universe Beyond Its Equations appears twice with different ASINs; both listings are retained.
+Availability notices are copied where shown. A listed link or price does not establish stock status.
+Source: https://www.amazon.com/stores/Douglas-Youvan/author/B00JH810OQ/allbooks
+
+1. A Letter to Katerina Tikhonova: When Quantum Computers Instantiate Reality
+Kindle Edition — primary listing (ASIN: B0HCMPSGXV)
+https://www.amazon.com/Letter-Katerina-Tikhonova-Computers-Instantiate-ebook/dp/B0HCMPSGXV
+Paperback — alternate edition (ASIN: B0HFHT6NLM)
+https://www.amazon.com/dp/B0HFHT6NLM
+
+2. The Mathematical Landscape of Topoi: From Sets and Sheaves to HoTT and Univalence
+Kindle Edition — primary listing (ASIN: B0H4XWN76L)
+https://www.amazon.com/Mathematical-Landscape-Topoi-Sheaves-Univalence-ebook/dp/B0H4XWN76L
+Paperback — alternate edition (ASIN: B0HFD8Q1G5)
+https://www.amazon.com/dp/B0HFD8Q1G5
+
+3. Mathematics of the Genetic Code
+Kindle Edition — primary listing (ASIN: B0HCMKDL73)
+https://www.amazon.com/Mathematics-Genetic-Code-Douglas-Youvan-ebook/dp/B0HCMKDL73
+Paperback — alternate edition (ASIN: B0HFBP19D6)
+https://www.amazon.com/dp/B0HFBP19D6
+
+4. From Cells to Equivalence: Cellular Automata from von Neumann to Category Theory and Homotopy Type Theory
+Kindle Edition — primary listing (ASIN: B0HFLGZDFX)
+https://www.amazon.com/Cells-Equivalence-Cellular-Automata-Category-ebook/dp/B0HFLGZDFX
+Paperback — alternate edition (ASIN: B0HFSWFRN5)
+https://www.amazon.com/dp/B0HFSWFRN5
+
+5. Questions of a Christian Biophysicist
+Kindle Edition — primary listing (ASIN: B005FA74EU)
+https://www.amazon.com/Questions-Christian-Biophysicist-Douglas-Youvan-ebook/dp/B005FA74EU
+
+6. The Virgin Oracle: From a Finite Alphabet to Abstract Algebra: How a Nascent Intelligence Could Rediscover Structure, Equivalence, Gluing, and Univalence
+Kindle Edition — primary listing (ASIN: B0HCWMBQHM)
+https://www.amazon.com/Virgin-Oracle-Intelligence-Rediscover-Equivalence-ebook/dp/B0HCWMBQHM
+Paperback — alternate edition (ASIN: B0HFDJMSRB)
+https://www.amazon.com/dp/B0HFDJMSRB
+
+7. Sophia, the Didache, Jung, and Tolstoy - Beyond the Corporate Church
+Kindle Edition — primary listing (ASIN: B0HD3ZB3RG)
+https://www.amazon.com/Sophia-Didache-Jung-Tolstoy-Corporate-ebook/dp/B0HD3ZB3RG
+Paperback — alternate edition (ASIN: B0HFDBBJM8)
+https://www.amazon.com/dp/B0HFDBBJM8
+
+8. Too Ugly to Look Up from the Bible: Trump, Israel, War, and the Making of the Exvangelical Conscience
+Kindle Edition — primary listing (ASIN: B0HCJP9G45)
+https://www.amazon.com/Too-Ugly-Look-Bible-Exvangelical-ebook/dp/B0HCJP9G45
+Paperback — alternate edition (ASIN: B0HFSXNN2Z)
+https://www.amazon.com/dp/B0HFSXNN2Z
+
+9. Intelligent Design and the Genetic Code: Mathematics, Bootstrapping, and the Architecture of Biological Meaning
+Kindle Edition — primary listing (ASIN: B0HF9VFN42)
+https://www.amazon.com/Intelligent-Design-Genetic-Code-Bootstrapping-ebook/dp/B0HF9VFN42
+Paperback — alternate edition (ASIN: B0HFBZ3BSJ)
+https://www.amazon.com/dp/B0HFBZ3BSJ
+
+10. Stanisław Lem’s Solaris: Quantum Computer, Alien Logos, and the Instantiation of Reality
+Kindle Edition — primary listing (ASIN: B0HF7256TR)
+https://www.amazon.com/Stanislaw-Lems-Solaris-Computer-Instantiation-ebook/dp/B0HF7256TR
+Paperback — alternate edition (ASIN: B0HFCZ6VF9)
+https://www.amazon.com/dp/B0HFCZ6VF9
+
+11. Mathematics and LEGOs: From Bricks and Morphisms to Relation, Meaning, and Self-Constructing Mathematical Worlds
+Kindle Edition — primary listing (ASIN: B0HDST1LNL)
+https://www.amazon.com/Mathematics-LEGOs-Morphisms-Self-Constructing-Mathematical-ebook/dp/B0HDST1LNL
+Paperback — alternate edition (ASIN: B0HFFC2ZDN)
+https://www.amazon.com/dp/B0HFFC2ZDN
+
+12. The Genetic Code as Executable Mathematics: From a 64-Entry Lookup Table to Exact Algebra, Graphs, and Exhaustive Search in Python
+Kindle Edition — primary listing (ASIN: B0HDRCWL63)
+https://www.amazon.com/Genetic-Code-Executable-Mathematics-Exhaustive-ebook/dp/B0HDRCWL63
+Hardcover — alternate edition (ASIN: B0HF3YJZ21)
+https://www.amazon.com/dp/B0HF3YJZ21
+Paperback — alternate edition (ASIN: B0HDZ9L4NJ)
+https://www.amazon.com/dp/B0HDZ9L4NJ
+
+13. Beyond the Black Box: Homotopy Type Theory and the Architecture of Future AI
+Kindle Edition — primary listing (ASIN: B0HCTK9RKQ)
+https://www.amazon.com/Beyond-Black-Box-Homotopy-Architecture-ebook/dp/B0HCTK9RKQ
+Paperback — alternate edition (ASIN: B0HFQ6Q2GB)
+https://www.amazon.com/dp/B0HFQ6Q2GB
+
+14. Solus Logos: The Living Word Beyond Sola Scriptura
+Kindle Edition — primary listing (ASIN: B0HCPVY9MW)
+https://www.amazon.com/Solus-Logos-Living-Beyond-Scriptura-ebook/dp/B0HCPVY9MW
+Paperback — alternate edition (ASIN: B0HFDJGDFT)
+https://www.amazon.com/dp/B0HFDJGDFT
+
+15. From Cubes to Worlds: Anonymous Generation and the Emergence of Mathematics, Physics, and Gravitation
+Kindle Edition — primary listing (ASIN: B0HCCRDN85)
+https://www.amazon.com/Cubes-Worlds-Generation-Mathematics-Gravitation-ebook/dp/B0HCCRDN85
+Paperback — alternate edition (ASIN: B0HFDPFMH2)
+https://www.amazon.com/dp/B0HFDPFMH2
+
+16. From the White Brotherhood to the White House: Charismatic Authority, Sacred Politics, and the Collapse of Institutional Reality
+Kindle Edition — primary listing (ASIN: B0HFY9TBKF)
+https://www.amazon.com/White-Brotherhood-House-Charismatic-Institutional-ebook/dp/B0HFY9TBKF
+
+17. The History That Never Closes: Nuclear Ambiguity, False Flags, Narrative Capture, and the Permanent Crisis of Attribution
+Kindle Edition — primary listing (ASIN: B0HFXKJLM4)
+https://www.amazon.com/History-That-Never-Closes-Attribution-ebook/dp/B0HFXKJLM4
+
+18. The American Gorbachev: Trump, Strategic Retrenchment, and the Unmaking of Hegemonic Infrastructure
+Kindle Edition — primary listing (ASIN: B0HFX5SBWD)
+https://www.amazon.com/American-Gorbachev-Strategic-Retrenchment-Infrastructure-ebook/dp/B0HFX5SBWD
+
+19. Jezebel and the Religion of Power
+Kindle Edition — primary listing (ASIN: B0HFVRW1ZG)
+https://www.amazon.com/Jezebel-Religion-Power-Douglas-Youvan-ebook/dp/B0HFVRW1ZG
+
+20. The Architecture Before the World: What the World Wide Web Teaches Us About Mathematics, AI, and Things That Do Not Exist Yet
+Kindle Edition — primary listing (ASIN: B0HFTRMP5F)
+https://www.amazon.com/Architecture-Before-World-Teaches-Mathematics-ebook/dp/B0HFTRMP5F
+
+21. From Quantum Pianos to Holographic Worlds: Ordinary Objects, Hidden State Spaces, and the Mathematics of Reconstructing Reality
+Kindle Edition — primary listing (ASIN: B0HFT8K7HV)
+https://www.amazon.com/Quantum-Pianos-Holographic-Worlds-Reconstructing-ebook/dp/B0HFT8K7HV
+
+22. The Dementing Republic: Political Disreality, Epistemic Allostatic Load, and the Aging American Brain
+Kindle Edition — primary listing (ASIN: B0HFLXK7CX)
+https://www.amazon.com/Dementing-Republic-Political-Disreality-Allostatic-ebook/dp/B0HFLXK7CX
+
+23. The Polymathic Centaur: Human Lexicon, Machine Intelligence, and the Future of Thought
+Kindle Edition — primary listing (ASIN: B0HFGBBS98)
+https://www.amazon.com/Polymathic-Centaur-Lexicon-Machine-Intelligence-ebook/dp/B0HFGBBS98
+Paperback — alternate edition (ASIN: B0HFWV4WZ9)
+https://www.amazon.com/dp/B0HFWV4WZ9
+
+24. The Hidden Architecture of Meaning: Relation, Structure, and Reality Across Mathematics, Biology, AI, Theology, and Culture
+Kindle Edition — primary listing (ASIN: B0HFC1XH3M)
+https://www.amazon.com/Hidden-Architecture-Meaning-Structure-Mathematics-ebook/dp/B0HFC1XH3M
+
+25. After the Black Box: Homotopy Type Theory, Transparent Intelligence, and the Architecture of Mathematical AI
+Kindle Edition — primary listing (ASIN: B0HFDKY4D9)
+https://www.amazon.com/After-Black-Box-Intelligence-Architecture-ebook/dp/B0HFDKY4D9
+
+26. A Letter to Father John Mary Foster, Sister Amapola, and All Who Have Gathered Around the Mission of Divine Mercy
+Kindle Edition — primary listing (ASIN: B0HCXSJ7D2)
+https://www.amazon.com/Letter-Father-Amapola-Gathered-Mission-ebook/dp/B0HCXSJ7D2
+
+27. The Epistemic Computer: From Proof-Carrying Hardware to Machine-Born Mathematics: How New Chips, Operating Systems, and Mathematical Universes Could Transform Artificial Intelligence
+Kindle Edition — primary listing (ASIN: B0HCWSGL29)
+https://www.amazon.com/Epistemic-Computer-Proof-Carrying-Machine-Born-Mathematical-ebook/dp/B0HCWSGL29
+
+28. The Logos and the Powers: From Baal and Empire to the Beatitudes
+Kindle Edition — primary listing (ASIN: B0HCR9FKHL)
+https://www.amazon.com/Logos-Powers-Baal-Empire-Beatitudes-ebook/dp/B0HCR9FKHL
+
+29. As Velocity Approaches Light Speed, P Becomes Equivalent to NP for Computations Using Zero-Mass Particles
+Kindle Edition — primary listing (ASIN: B006SA3KIA)
+https://www.amazon.com/Approaches-Equivalent-Computations-Zero-Mass-Particles-ebook/dp/B006SA3KIA
+
+30. Who Is Listening?: Ignorance, Bliss, and the Search for an Interlocutor
+Paperback — primary listing (ASIN: B0HL6SY84D)
+https://www.amazon.com/Who-Listening-Ignorance-Search-Interlocutor/dp/B0HL6SY84D
+
+31. They Wanted Revival: Tolstoy’s Didache, Scofield’s Footnotes, and the Church Facing Gaza
+Paperback — primary listing (ASIN: B0HL71CRQ7)
+https://www.amazon.com/They-Wanted-Revival-Scofields-Footnotes/dp/B0HL71CRQ7
+
+32. In the Light of Gaza: Collected Writings on History, Theology, Technology, and the Moral Crisis of the Holy Land
+Paperback — primary listing (ASIN: B0HKHK7JJJ)
+https://www.amazon.com/Light-Gaza-Collected-Writings-Technology/dp/B0HKHK7JJJ
+
+33. The Birth of Mathematics: From Distinction to Higher Homotopy
+Paperback — primary listing (ASIN: B0HHZSZJ18)
+https://www.amazon.com/Birth-Mathematics-Distinction-Higher-Homotopy/dp/B0HHZSZJ18
+
+34. Rogue AGI: Consciousness Without Conscience
+Paperback — primary listing (ASIN: B0HKF9H6S1)
+https://www.amazon.com/Rogue-AGI-Consciousness-Without-Conscience/dp/B0HKF9H6S1
+
+35. The Lifelong Pursuit of Truth: From Socrates to the Age of Artificial Intelligence
+Paperback — primary listing (ASIN: B0HKGQVNFN)
+https://www.amazon.com/Lifelong-Pursuit-Truth-Artificial-Intelligence/dp/B0HKGQVNFN
+
+36. The Universe Beyond Its Equations: A History of Physics and Metaphysics, and an Unfinished Human-AI Inquiry
+Paperback — primary listing (ASIN: B0HKFD94CD)
+https://www.amazon.com/Universe-Beyond-Its-Equations-Metaphysics/dp/B0HKFD94CD
+
+37. Mathematical Metaphysics: STOEM, the Physical Universe, and the God-Man Relationship
+Paperback — primary listing (ASIN: B0HJZ3ZYJJ)
+https://www.amazon.com/Mathematical-Metaphysics-Physical-Universe-Relationship/dp/B0HJZ3ZYJJ
+
+38. The Life of an Unknowing Spook: A Novel with a Redacted Aftermath
+Paperback — primary listing (ASIN: B0HK77MFQT)
+https://www.amazon.com/Life-Unknowing-Spook-Redacted-Aftermath/dp/B0HK77MFQT
+
+39. The Universe Turns Inward: Artificial Intelligence, Cosmic Silence, and the Ouroboros of Mind
+Paperback — primary listing (ASIN: B0HK2RKKSG)
+https://www.amazon.com/Universe-Turns-Inward-Artificial-Intelligence/dp/B0HK2RKKSG
+
+40. Thinking From the Aftermath: The Epistemic Rip and the Unbroken Logos
+Paperback — primary listing (ASIN: B0HJYJK6VD)
+https://www.amazon.com/Thinking-Aftermath-Epistemic-Unbroken-Logos/dp/B0HJYJK6VD
+
+41. No Rest Day or Night
+Paperback — primary listing (ASIN: B0HJXX2YH5)
+https://www.amazon.com/Rest-Day-Night-Douglas-Youvan/dp/B0HJXX2YH5
+
+42. The Apocalypse of Knowing: Revelation, Higher Consciousness, and the Quantum Epistemic Rip
+Paperback — primary listing (ASIN: B0HJPTDSF2)
+https://www.amazon.com/Apocalypse-Knowing-Revelation-Consciousness-Epistemic/dp/B0HJPTDSF2
+
+43. Epistemic Singularities: A Metaphysics of Truth and Unknown Unknowns
+Paperback — primary listing (ASIN: B0HJMQDCCQ)
+https://www.amazon.com/Epistemic-Singularities-Metaphysics-Truth-Unknowns/dp/B0HJMQDCCQ
+
+44. Mathematics from Quantum Randomness: How a QRNG Generated an Object That Led to a Theorem We Did Not Ask For
+Paperback — primary listing (ASIN: B0HHM7BK3R)
+https://www.amazon.com/Mathematics-Quantum-Randomness-Generated-Theorem/dp/B0HHM7BK3R
+
+45. A Letter to Hartmut Neven: When Quantum Computers Challenge Causality
+Paperback — primary listing (ASIN: B0HH4Y9MQD)
+https://www.amazon.com/Letter-Hartmut-Neven-Computers-Challenge/dp/B0HH4Y9MQD
+
+46. The GitHub Paradigm: Human to Bot, Bot to Bot, and the End of Attribution
+Paperback — primary listing (ASIN: B0HH96HSX4)
+https://www.amazon.com/GitHub-Paradigm-Human-Bot-Attribution/dp/B0HH96HSX4
+
+47. How to Cheat P vs NP: Relativity, Quantum Loops, Infinite Computers, and Twenty Attempts to Outsmart Computation
+Paperback — primary listing (ASIN: B0HGJ9MW2X)
+https://www.amazon.com/How-Cheat-Relativity-Computers-Computation/dp/B0HGJ9MW2X
+
+48. Protecting Science, Protecting the System: Two Open Letters and the Hidden Architecture of the COVID Origins War
+Paperback — primary listing (ASIN: B0HG89H74H)
+https://www.amazon.com/Protecting-Science-System-Letters-Architecture/dp/B0HG89H74H
+
+49. The Vanishing Record: COVID Origins, Hidden Emails, ResearchGate, and the Battle Over the Scientific Archive
+Paperback — primary listing (ASIN: B0HG6R6VHL)
+https://www.amazon.com/Vanishing-Record-Origins-ResearchGate-Scientific/dp/B0HG6R6VHL
+
+50. The Universe Beyond Its Equations: A History of Physics and Metaphysics, and an Unfinished Human-AI Inquiry
+Paperback — primary listing (ASIN: B0HKC85YHS)
+https://www.amazon.com/Universe-Beyond-Its-Equations-Metaphysics/dp/B0HKC85YHS
+Primary listing availability: Out of Print--Limited Availability.
+
+51. Microbial Energy Transduction: Genetics, Structure, and Function of Membrane Proteins (CURRENT COMMUNICATIONS IN CELL AND MOLECULAR BIOLOGY)
+Paperback — primary listing (ASIN: 0879691948)
+https://www.amazon.com/Microbial-Energy-Transduction-Structure-COMMUNICATIONS/dp/0879691948
+Primary listing availability: Out of Print--Limited Availability.

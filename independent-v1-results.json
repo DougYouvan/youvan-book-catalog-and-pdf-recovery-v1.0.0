@@ -1,0 +1,102 @@
+[
+  {
+    "Test": "Exactly 11 targets",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Target canonical stems unique",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Underscore title matches",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "CamelCase title matches",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Accented title matches",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Generic thematic title rejected",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Partial target rejected",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Explicit wrapper rejected",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Front cover rejected",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "With cover interior allowed",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Exact PDF extension excludes pdf.php",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Previous output folders excluded",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Newest excludes newer named wrapper and older interior",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Same-time identical files deduplicate; different bytes stay distinct",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Real header recognized",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "HTML fake PDF rejected",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Copied bytes equal source",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Source bytes and modified timestamp unchanged",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Existing destination not overwritten",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Source hash change prevents copy",
+    "Pass": true,
+    "Detail": ""
+  }
+]

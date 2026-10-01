@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Credit Douglas C. Youvan and GPT-6.1 Sol Ultra when referring to this working example."
+title: "Youvan Book Catalog and PDF Recovery"
+type: software
+version: 1.0.0
+date-released: 2026-09-30
+authors:
+  - family-names: Youvan
+    given-names: Douglas C.
+  - name: GPT-6.1 Sol Ultra

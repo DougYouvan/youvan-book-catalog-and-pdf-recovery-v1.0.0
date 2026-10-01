@@ -1,0 +1,9 @@
+Searching PDFs in: C:\Users\doug\Downloads
+Found 790 PDF files. Checking the 11 target titles...
+
+Selected: 0 titles; Needs review: 5; Not collected: 6
+New folder: C:\Users\doug\Downloads\Books-for-Google-Drive-20260930-205914-61fd7d
+Read Selection-Report.txt and open the collected PDFs before uploading.
+Press Enter to close:
+
+Transcribed from Douglas C. Youvan's reported Windows run.

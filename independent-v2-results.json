@@ -1,0 +1,117 @@
+[
+  {
+    "Test": "Observed LEGO cover filename excluded",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "With cover interior allowed",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Including cover interior allowed",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Hardcover is not standalone cover token",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Known alternate Solus work rejected",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Correct Solus subtitle allowed",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Solus conservative floor 100 pages",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Compatibility Unicode letters normalize",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Embedded Solus public hash correct",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "LEGO chooses older eligible interior",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "LEGO observed named cover not copied",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "LEGO unlabeled 1-page candidate rejected without copy",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Solus chooses correct 230-page interior",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "24-page generic Solus rejected with recorded reason",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Known alternate Solus recorded as ignored",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Public identical-byte Solus annotation present",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Full interior with-cover copied despite newer cover",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Different eligible timestamp ties copied only to review",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Same hash eligible ties deduped",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Unmatched Questions remains not found",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Unmatched Questions filename clues recorded",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "All source hashes and modified timestamps preserved",
+    "Pass": true,
+    "Detail": ""
+  },
+  {
+    "Test": "Report logs known alternate and page-floor rejection",
+    "Pass": true,
+    "Detail": ""
+  }
+]
